@@ -1,0 +1,92 @@
+2025-05-12 19:48:32,879 - qa_analytics - INFO - Starting Enhanced QA Analytics in GUI mode
+2025-05-12 19:48:32,919 - qa_analytics - WARNING - Reference data config not found at configs/reference_data.yaml
+2025-05-12 19:48:32,919 - qa_analytics - WARNING - Data source registry not found at configs/data_sources.yaml
+2025-05-12 19:57:28,013 - qa_analytics - INFO - Starting Enhanced QA Analytics in GUI mode
+2025-05-12 19:57:28,072 - qa_analytics - ERROR - Missing required config key: source
+2025-05-12 19:57:28,072 - qa_analytics - WARNING - Reference data config not found at configs/reference_data.yaml
+2025-05-12 19:57:28,073 - qa_analytics - WARNING - Data source registry not found at configs/data_sources.yaml
+2025-05-12 19:57:37,388 - qa_analytics - INFO - Starting Enhanced QA Analytics in GUI mode
+2025-05-12 19:57:37,430 - qa_analytics - ERROR - Missing required config key: source
+2025-05-12 19:57:37,430 - qa_analytics - WARNING - Reference data config not found at configs/reference_data.yaml
+2025-05-12 19:57:37,430 - qa_analytics - WARNING - Data source registry not found at configs/data_sources.yaml
+2025-05-12 20:01:34,068 - qa_analytics - INFO - Starting Enhanced QA Analytics in GUI mode
+2025-05-12 20:01:34,110 - qa_analytics - INFO - Loaded config for QA-ID 1
+2025-05-12 20:01:34,110 - qa_analytics - WARNING - Reference data config not found at configs/reference_data.yaml
+2025-05-12 20:01:34,110 - qa_analytics - WARNING - Data source registry not found at configs/data_sources.yaml
+2025-05-12 20:02:20,445 - qa_analytics - WARNING - Reference data config not found at configs/reference_data.yaml
+2025-05-12 20:02:20,446 - qa_analytics - WARNING - Data source registry not found at configs/data_sources.yaml
+2025-05-12 20:02:20,448 - qa_analytics - INFO - Starting processing for QA-ID 1
+2025-05-12 20:02:20,449 - qa_analytics - INFO - Loading data from registered data source 'audit_planning_approvals'
+2025-05-12 20:02:20,450 - qa_analytics - ERROR - Data source 'audit_planning_approvals' not found in registry
+2025-05-12 20:02:20,450 - qa_analytics - ERROR - Failed to load data from registered source: ["Data source 'audit_planning_approvals' not found in registry"]
+2025-05-12 20:04:28,755 - qa_analytics - INFO - Starting Enhanced QA Analytics in GUI mode
+2025-05-12 20:04:28,795 - qa_analytics - INFO - Loaded config for QA-ID 1
+2025-05-12 20:04:28,795 - qa_analytics - WARNING - Reference data config not found at configs/reference_data.yaml
+2025-05-12 20:04:28,795 - qa_analytics - WARNING - Data source registry not found at configs/data_sources.yaml
+2025-05-12 20:04:40,890 - qa_analytics - WARNING - Reference data config not found at configs/reference_data.yaml
+2025-05-12 20:04:40,891 - qa_analytics - WARNING - Data source registry not found at configs/data_sources.yaml
+2025-05-12 20:04:40,891 - qa_analytics - INFO - Starting processing for QA-ID 1
+2025-05-12 20:04:40,892 - qa_analytics - INFO - Loading data from registered data source 'audit_planning_approvals'
+2025-05-12 20:04:40,893 - qa_analytics - ERROR - Data source 'audit_planning_approvals' not found in registry
+2025-05-12 20:04:40,893 - qa_analytics - ERROR - Failed to load data from registered source: ["Data source 'audit_planning_approvals' not found in registry"]
+2025-05-12 20:05:15,279 - qa_analytics - INFO - Loaded reference data config from configs/reference_data.yaml
+2025-05-12 20:05:15,289 - qa_analytics - INFO - Loaded data source registry from configs/data_sources.yaml
+2025-05-12 20:05:15,290 - qa_analytics - INFO - Found 2 data sources and 8 analytic mappings
+2025-05-12 20:05:15,290 - qa_analytics - INFO - Starting processing for QA-ID 1
+2025-05-12 20:05:15,291 - qa_analytics - INFO - Loading data from registered data source 'audit_planning_approvals'
+2025-05-12 20:05:15,293 - qa_analytics - ERROR - Data source 'audit_planning_approvals' not found in registry
+2025-05-12 20:05:15,294 - qa_analytics - ERROR - Failed to load data from registered source: ["Data source 'audit_planning_approvals' not found in registry"]
+2025-05-12 20:05:19,043 - qa_analytics - INFO - Starting Enhanced QA Analytics in GUI mode
+2025-05-12 20:05:19,091 - qa_analytics - ERROR - Missing required config key: analytic_id
+2025-05-12 20:05:19,093 - qa_analytics - INFO - Loaded config for QA-ID 1
+2025-05-12 20:05:19,095 - qa_analytics - ERROR - Missing required config key: analytic_id
+2025-05-12 20:05:19,096 - qa_analytics - INFO - Loaded reference data config from configs/reference_data.yaml
+2025-05-12 20:05:19,105 - qa_analytics - INFO - Loaded data source registry from configs/data_sources.yaml
+2025-05-12 20:05:19,105 - qa_analytics - INFO - Found 2 data sources and 8 analytic mappings
+2025-05-12 20:05:24,457 - qa_analytics - INFO - Loaded reference data config from configs/reference_data.yaml
+2025-05-12 20:05:24,468 - qa_analytics - INFO - Loaded data source registry from configs/data_sources.yaml
+2025-05-12 20:05:24,468 - qa_analytics - INFO - Found 2 data sources and 8 analytic mappings
+2025-05-12 20:05:24,468 - qa_analytics - INFO - Starting processing for QA-ID 1
+2025-05-12 20:05:24,469 - qa_analytics - INFO - Loading data from registered data source 'audit_planning_approvals'
+2025-05-12 20:05:24,470 - qa_analytics - ERROR - Data source 'audit_planning_approvals' not found in registry
+2025-05-12 20:05:24,470 - qa_analytics - ERROR - Failed to load data from registered source: ["Data source 'audit_planning_approvals' not found in registry"]
+2025-05-12 20:06:38,229 - qa_analytics - INFO - Starting Enhanced QA Analytics in GUI mode
+2025-05-12 20:06:38,274 - qa_analytics - ERROR - Missing required config key: analytic_id
+2025-05-12 20:06:38,276 - qa_analytics - INFO - Loaded config for QA-ID 1
+2025-05-12 20:06:38,277 - qa_analytics - ERROR - Missing required config key: analytic_id
+2025-05-12 20:06:38,279 - qa_analytics - INFO - Loaded reference data config from configs/reference_data.yaml
+2025-05-12 20:06:38,285 - qa_analytics - INFO - Loaded data source registry from configs/data_sources.yaml
+2025-05-12 20:06:38,285 - qa_analytics - INFO - Found 4 data sources and 8 analytic mappings
+2025-05-12 20:06:42,270 - qa_analytics - INFO - Loaded reference data config from configs/reference_data.yaml
+2025-05-12 20:06:42,277 - qa_analytics - INFO - Loaded data source registry from configs/data_sources.yaml
+2025-05-12 20:06:42,277 - qa_analytics - INFO - Found 4 data sources and 8 analytic mappings
+2025-05-12 20:06:42,277 - qa_analytics - INFO - Starting processing for QA-ID 1
+2025-05-12 20:06:42,277 - qa_analytics - INFO - Loading data from registered data source 'audit_planning_approvals'
+2025-05-12 20:06:42,284 - qa_analytics - ERROR - Error loading data source 'audit_planning_approvals': Worksheet named 'Approvals Data' not found
+2025-05-12 20:06:42,284 - qa_analytics - ERROR - Failed to load data from registered source: ["Error loading data source: Worksheet named 'Approvals Data' not found"]
+2025-05-12 20:07:44,745 - qa_analytics - INFO - Starting Enhanced QA Analytics in GUI mode
+2025-05-12 20:07:44,792 - qa_analytics - ERROR - Missing required config key: analytic_id
+2025-05-12 20:07:44,794 - qa_analytics - INFO - Loaded config for QA-ID 1
+2025-05-12 20:07:44,796 - qa_analytics - ERROR - Missing required config key: analytic_id
+2025-05-12 20:07:44,797 - qa_analytics - INFO - Loaded reference data config from configs/reference_data.yaml
+2025-05-12 20:07:44,804 - qa_analytics - INFO - Loaded data source registry from configs/data_sources.yaml
+2025-05-12 20:07:44,804 - qa_analytics - INFO - Found 4 data sources and 8 analytic mappings
+2025-05-12 20:07:48,703 - qa_analytics - INFO - Loaded reference data config from configs/reference_data.yaml
+2025-05-12 20:07:48,709 - qa_analytics - INFO - Loaded data source registry from configs/data_sources.yaml
+2025-05-12 20:07:48,710 - qa_analytics - INFO - Found 4 data sources and 8 analytic mappings
+2025-05-12 20:07:48,710 - qa_analytics - INFO - Starting processing for QA-ID 1
+2025-05-12 20:07:48,711 - qa_analytics - INFO - Loading data from registered data source 'audit_planning_approvals'
+2025-05-12 20:07:48,725 - qa_analytics - WARNING - Missing required columns: Planning Document ID, Submitter, Manager Approver, Audit Leader Approver, Submit Date, Manager Approval Date, Audit Leader Approval Date
+2025-05-12 20:07:48,727 - qa_analytics - INFO - Loaded data source 'audit_planning_approvals' from C:/Users/luria/PycharmProjects/QA_Analytics_Framework/test_data/qa_01_test_data.xlsx (10 rows)
+2025-05-12 20:07:48,728 - qa_analytics - INFO - Successfully loaded source data with 10 rows
+2025-05-12 20:07:48,731 - qa_analytics - INFO - Loaded reference data 'HR_Titles' version 2025-Q2 from ref_data/hr_titles.xlsx (18 rows)
+2025-05-12 20:07:48,734 - qa_analytics - INFO - Validation 'segregation_of_duties' completed - 8 of 10 records conform
+2025-05-12 20:07:48,736 - qa_analytics - INFO - Validation 'approval_sequence' completed - 9 of 10 records conform
+2025-05-12 20:07:48,737 - qa_analytics - INFO - Validation 'title_based_approval' completed - 9 of 10 records conform
+2025-05-12 20:07:48,739 - qa_analytics - INFO - Validation complete: 7 GC, 3 DNC
+2025-05-12 20:07:48,746 - qa_analytics - INFO - Generating reports...
+2025-05-12 20:07:48,780 - qa_analytics - INFO - Generated main report: output\QA_1_Main_20250512_200748.xlsx
+2025-05-12 20:07:48,807 - qa_analytics - INFO - Generated individual report for David Wilson: output\QA_1_David Wilson_20250512.xlsx
+2025-05-12 20:07:48,832 - qa_analytics - INFO - Generated individual report for Sarah Lee: output\QA_1_Sarah Lee_20250512.xlsx
+2025-05-12 20:07:48,855 - qa_analytics - INFO - Generated individual report for Lisa Evans: output\QA_1_Lisa Evans_20250512.xlsx
+2025-05-12 20:07:48,856 - qa_analytics - INFO - Processing complete. Generated 4 reports.
