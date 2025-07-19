@@ -1,0 +1,525 @@
+# QA Horizontal Review Resource Planning Framework
+
+## Overview
+Horizontal Reviews assess audit processes across all audits (15 stakeholders), requiring extensive analytics, control testing, substantive testing, and stakeholder coordination. Target: 600-700 total hours over 15-17 weeks.
+
+## Team Structure
+- **Lead:** 75% of total hours
+- **Team Member:** 25% of total hours
+- **L1 Reviewer:** Oversight and review support
+- **Note:** Both Lead and Team Member attend all 15 stakeholder meetings
+
+## Base Module Structure
+
+### Fixed Components (110 Lead Hours / 55 Team Member Hours / 40 L1 Hours)
+
+#### QA Planning Phase = 35 Lead Hours / 10 Team Member Hours / 15 L1 Hours
+- **Lead Activities:**
+  - Knowledge Sharing Prep (2 hours)
+  - Knowledge Sharing Meeting (1 hour)
+  - Announcement Memo (1 hour)
+  - Population Analysis & Sampling (3 hours)
+  - Control Identification & Test Plan (8 hours)
+  - Analytics Planning (5 hours)
+  - Brainstorm Prep (8 hours)
+  - Brainstorm Meeting (2 hours)
+  - Stakeholder Meeting Scheduling (2 hours)
+  - Administrative (3 hours)
+
+- **Team Member Activities:**
+  - Knowledge Sharing Meeting (1 hour)
+  - Brainstorm Meeting (2 hours)
+  - Analytics familiarization (3 hours)
+  - Test plan review (2 hours)
+  - Administrative support (2 hours)
+
+- **L1 Activities:**
+  - Knowledge Sharing Meeting (1 hour)
+  - Test Plan Review & Refinement (4 hours)
+  - Brainstorm meeting participation (2 hours)
+  - Planning documents review (4 hours)
+  - VP status meeting - Planning (1 hour)
+  - Administrative support (3 hours)
+
+#### QA Reporting Phase = 45 Lead Hours / 15 Team Member Hours / 18 L1 Hours
+- **Lead Activities:**
+  - Workbook consolidation after 15 meetings (5 hours)
+  - Thematic Analysis (2 hours)
+  - QA Report Drafting (15 hours)
+  - Report Meeting with VP/L1 (3 hours)
+  - Process Owner Final Meeting Prep (3 hours)
+  - Process Owner Final Meeting (2 hours)
+  - Addressing Comments (8 hours)
+  - Retrospective Meeting (1 hour)
+  - Administrative (6 hours)
+
+- **Team Member Activities:**
+  - Thematic Analysis participation (2 hours)
+  - Report input and review (5 hours)
+  - Process Owner Meeting attendance (2 hours)
+  - Meeting participation (3 hours)
+  - Retrospective Meeting (1 hour)
+  - Administrative support (2 hours)
+
+- **L1 Activities:**
+  - Thematic Analysis participation (2 hours)
+  - VP review process support (8 hours)
+  - PGA review process support (4 hours)
+  - Meeting participation (3 hours)
+  - Retrospective Meeting (1 hour)
+
+#### Administrative/Coordination = 30 Lead Hours / 30 Team Member Hours / 7 L1 Hours
+- **Lead & Team Member:** 
+  - General administrative (10 hours each)
+  - 15 Preliminary stakeholder meetings (15 hours each - both attend)
+  - Workbook splitting for meetings (3 hours - Lead only)
+  - Weekly VP status updates (2 hours - Lead only)
+
+- **L1:** 
+  - Administrative support (3 hours)
+  - Selected stakeholder meetings (4 hours - new Lead support)
+
+### Variable Components: QA Fieldwork Phase
+
+#### Base QA Fieldwork = 290 Lead Hours / 125 Team Member Hours
+
+**Workload Distribution Model:**
+- **Lead Focus:** 50% control testing + 50% substantive testing + thematic oversight
+- **Team Member Focus:** 50% control testing + 50% substantive testing + 100% analytics
+
+**Component Breakdown:**
+
+**Analytics Work (5 analytics standard):**
+- Existing Analytics: 3-4 hours each × 5 = 20 hours
+- New Analytics Creation: Add 50% more time per new analytic
+- Investigation & Documentation: Included in base hours
+- **Total:** 20 hours (experienced) / 40 hours (new team member)
+
+**Control Testing (similar to operational approach):**
+- Estimate 15-20 controls based on process complexity
+- Testing hours follow operational framework:
+  - Transaction-based: 4-5 hours per control
+  - Inquiry/Observation: 1.5-2 hours per control
+  - Automated: 1.5 hours per control
+- **Total:** ~60-80 hours (split between Lead and Team Member)
+
+**Substantive Testing:**
+- 40 samples × 1.5 hours average = 60 hours
+- Split between Lead (30 hours) and Team Member (30 hours)
+- Includes documentation and findings write-up
+
+**Findings Investigation & Documentation:**
+- Assume 25-30% of tests yield findings
+- 2-4 hours per finding for investigation and documentation
+- **Total:** ~25-35 hours
+
+## Estimation Formula
+
+### Standard Horizontal Review Calculation
+
+**Fixed Components:**
+- Planning: 35L + 10TM + 15L1 = 60 hours
+- Reporting: 45L + 15TM + 18L1 = 78 hours
+- Admin/Meetings: 30L + 30TM + 7L1 = 67 hours
+- **Subtotal Fixed:** 205 hours
+
+**Variable Fieldwork (Medium Complexity):**
+- Analytics: 20 hours (TM)
+- Control Testing: 70 hours (35L + 35TM)
+- Substantive Testing: 60 hours (30L + 30TM)
+- Findings Work: 30 hours (20L + 10TM)
+- Fieldwork Admin: 15 hours (10L + 5TM)
+- **Subtotal Variable:** 195 hours
+
+**Total Base Estimate:** 
+- Lead: 110 + 95 = 205 hours
+- Team Member: 55 + 100 = 155 hours
+- L1: 40 hours
+- **Total: 400 hours**
+
+### Complexity Multipliers
+
+**Analytics Complexity:**
+- Simple (existing analytics only): 0.8x on analytics hours
+- Standard (mix of existing/new): 1.0x
+- Complex (majority new analytics): 1.5x on analytics hours
+
+**New Team Member Multipliers:**
+- New Lead: 1.3x on all Lead hours
+- New Team Member: 2.0x on analytics hours, 1.3x on other TM hours
+- Both New: Apply both multipliers
+
+**Process Complexity:**
+- Simple process area: 0.85x on fieldwork hours
+- Standard process area: 1.0x
+- Complex process area: 1.2x on fieldwork hours
+
+## Timeline Options
+
+### 17-Week Standard Timeline
+
+| Week | Phase | Lead Hrs | TM Hrs | L1 Hrs | Key Activities |
+|------|-------|----------|---------|---------|----------------|
+| 1-2 | Planning | 18 | 5 | 8 | Knowledge sharing, population analysis, control planning |
+| 3 | Planning | 17 | 5 | 7 | Complete planning, brainstorm, begin analytics setup |
+| 4-5 | Fieldwork | 20 | 15 | 2 | Analytics execution, begin control testing |
+| 6-7 | Fieldwork | 18 | 15 | 2 | Control testing, begin substantive testing |
+| 8-9 | Fieldwork | 18 | 15 | 1 | Continue substantive testing (40 samples) |
+| 10-11 | Fieldwork | 16 | 12 | 1 | Complete testing, findings investigation |
+| 12-13 | Fieldwork/Meetings | 25 | 25 | 4 | 15 stakeholder meetings (concentrated) |
+| 14 | Reporting | 15 | 5 | 4 | Workbook consolidation, thematic analysis, draft report |
+| 15-16 | Reporting | 15 | 5 | 7 | VP/PGA reviews, comment resolution |
+| 17 | Reporting/Close | 15 | 5 | 7 | Process owner meeting, retrospective, final report |
+
+**Weekly Average:** 12.1 Lead hrs/week, 9.1 TM hrs/week, 2.4 L1 hrs/week
+
+### 15-Week Compressed Timeline
+
+Compress by:
+- Overlapping stakeholder meetings with testing completion
+- Condensing reporting phase by 1 week
+- Increasing weekly hours by ~15%
+
+## Reconciliation to Target (600-700 hours)
+
+**Base Framework:** ~400 hours
+**To reach 600-700 hours, add:**
+
+1. **Higher complexity multipliers:**
+   - Complex process area: 1.2x = 480 hours
+   - New team members: +30-50% = 550-600 hours
+   
+2. **Additional scope elements:**
+   - More analytics (7-8 vs 5): +30-40 hours
+   - Larger sample size (60 vs 40): +30 hours
+   - More complex controls (25 vs 15): +40-50 hours
+   - Additional stakeholder coordination: +20-30 hours
+
+3. **Typical "Full Scope" Horizontal:**
+   - Base: 400 hours
+   - Complexity (1.2x): +80 hours
+   - New team member: +120 hours
+   - Additional scope: +50-100 hours
+   - **Total: 650-700 hours**
+
+## Key Success Factors
+
+1. **Analytics Efficiency:** Having experienced team member on analytics saves 20+ hours
+2. **Meeting Coordination:** Clustering the 15 stakeholder meetings saves transition time
+3. **Workload Balance:** Clear division between Lead and TM prevents bottlenecks
+4. **Workbook Management:** Automated macros for splitting critical for efficiency
+5. **Early L1 Engagement:** Prevents late-stage rework during reporting
+
+## Usage Notes
+
+- Analytics can be most variable component - track actuals carefully
+- Stakeholder availability often drives timeline - build in flexibility
+- Workbook splitting seems minor but is critical path for meetings
+- Team member analytics experience is highest-impact staffing decision
+- Consider scheduling retrospective before final report for immediate improvements
+- L1 hours concentrate in planning and reporting phases - plan their capacity accordingly
+
+
+
+
+_______________________________________________________________________________________
+
+
+# QA Operational Review Resource Planning Framework
+
+## Overview
+Operational Reviews assess IAG managed processes through direct control testing, requiring QA to perform audit procedures rather than review completed audit work. Target: 250 total hours over 15 weeks.
+
+## Base Module Structure
+
+### Fixed Components (55 Lead Hours / 35 L1 Hours)
+
+#### QA Planning Phase = 20 Lead Hours / 14 L1 Hours
+- **Lead Activities:**
+  - Announcement Memo (1 hour)
+  - RCM Review & Control Selection (7 hours)
+  - Test Plan Development (7 hours)
+  - Brainstorm/Planning Meeting (3 hours)
+  - Walkthrough Preparation (2 hours)
+- **L1 Activities:**
+  - Test Plan Review & Refinement (3 hours)
+  - Brainstorm meeting participation (2 hours)
+  - Planning documents review (3 hours)
+  - Walkthrough preparation support (2 hours)
+  - VP status meeting - Week 1 (0.5 hours)
+  - Administrative support (3.5 hours)
+
+#### QA Reporting Phase = 17 Lead Hours / 12 L1 Hours
+*(Same as Comprehensive Reviews)*
+- **Lead Activities:**
+  - Reviewing responses/clarifications (2 hours)
+  - QA Report Drafting (8 hours)
+  - Report Meeting with VP/L1 (2 hours)
+  - Addressing Comments (3 hours)
+  - Administrative (2 hours)
+- **L1 Activities:**
+  - VP review process support (6 hours)
+  - PGA review process support (4 hours)
+  - Meeting participation (2 hours)
+
+#### Administrative/Coordination = 18 Lead Hours / 9 L1 Hours
+- **Lead:** 
+  - General administrative (10 hours)
+  - Weekly VP status meetings (6 hours over 12 fieldwork weeks)
+  - Stakeholder coordination (2 hours)
+- **L1:** 
+  - Administrative support (3 hours)
+  - Weekly VP status meetings (6 hours over 12 fieldwork weeks)
+
+### Variable Components: QA Fieldwork Phase
+
+#### Base QA Fieldwork = 115 Lead Hours / 50 L1 Hours
+
+**Core Testing Activities:**
+- **Walkthroughs:** 8-10 hours (1-2 walkthroughs × 4-6 hours each)
+- **Control Testing:** Variable based on RCM size and complexity
+- **Findings Investigation:** Variable based on issues identified
+
+**Control Testing Calculations:**
+
+**Step 1: Determine Controls to Test**
+- Small RCM (≤20 controls): Test ~50%
+- Medium RCM (21-40 controls): Test ~35%
+- Large RCM (>40 controls): Test ~25%
+
+**Step 2: Calculate Testing Hours**
+
+*Transaction-Based Controls (with sampling):*
+- Simple: 2-3 hours per control
+- Medium: 4-5 hours per control
+- Complex: 6-8 hours per control
+
+*Inquiry/Observation Controls:*
+- Simple: 1-1.5 hours per control
+- Complex: 2-3 hours per control
+
+*Automated Controls:*
+- All types: 1-2 hours per control (sample of 1)
+
+**Step 3: Add Findings Investigation Time**
+- Verbal findings: 1-2 hours each
+- Low risk findings: 2-4 hours each
+- Assume 20-30% of tested controls will have findings
+
+## Estimation Formula
+
+### Example Calculation - Medium Complexity Operational Review
+
+**Assumptions:**
+- 30 control RCM (medium size)
+- Medium risk entity
+- Mix of control types
+- Experienced team
+
+**Controls to Test:** 30 × 35% = 11 controls
+- 6 transaction-based (medium complexity): 6 × 4.5 = 27 hours
+- 3 inquiry/observation: 3 × 1.5 = 4.5 hours
+- 2 automated: 2 × 1.5 = 3 hours
+- **Subtotal:** 34.5 hours
+
+**Findings Investigation:** 
+- Assume 3 findings (2 verbal, 1 low risk)
+- 2 × 1.5 + 1 × 3 = 6 hours
+
+**Walkthroughs:** 2 × 5 = 10 hours
+
+**Total Fieldwork:** 34.5 + 6 + 10 = 50.5 hours
+
+### Multipliers
+- **New QA Team Member:** 1.3x on all Lead hours
+- **High Risk Entity:** 1.2x on control testing hours
+- **Complex Process Area:** 1.15x on fieldwork hours
+
+## Timeline - 15 Week Standard
+
+| Week | Phase | Lead Hours/Week | L1 Hours/Week | Key Activities |
+|------|-------|----------------|---------------|----------------|
+| 1-2 | QA Planning | 10 | 7 | RCM review, control selection, test plan development |
+| 3 | QA Planning/Fieldwork | 8 | 5 | Complete planning, begin walkthroughs |
+| 4-6 | QA Fieldwork | 12 | 5 | Control testing - Phase 1 |
+| 7-9 | QA Fieldwork | 11 | 5 | Control testing - Phase 2 |
+| 10-11 | QA Fieldwork | 10 | 4 | Complete testing, findings investigation |
+| 12 | QA Fieldwork/Reporting | 9 | 5 | Preliminary observations, begin report |
+| 13-14 | QA Reporting | 9 | 6 | Report drafting, VP/PGA reviews |
+| 15 | QA Reporting & Admin | 8 | 5 | Final reviews, closeout |
+
+**Weekly Average:** 11.1 Lead hrs/week, 5.3 L1 hrs/week
+
+## Budget Reconciliation
+
+### Target: 250 Total Hours
+
+**Framework Base Estimate:**
+- Fixed Components: 55 Lead + 35 L1 = 90 hours
+- Variable Fieldwork (medium example): 115 Lead + 50 L1 = 165 hours
+- **Total Base:** 255 hours
+
+**Calibration Factors:**
+- Smaller/simpler reviews: -15% to -20%
+- Larger/complex reviews: +15% to +25%
+- New team members: +30% on Lead hours
+
+## Key Differences from Comprehensive Reviews
+
+1. **QA performs control testing** vs reviewing audit testing
+2. **RCM-based scoping** vs workpaper coverage
+3. **Walkthroughs required** with senior stakeholders
+4. **Longer fieldwork phase** (9 weeks vs 4 weeks)
+5. **Higher total hours** (250 vs 120)
+6. **Extended timeline** (15 weeks vs 12 weeks)
+
+## Usage Notes
+
+- Control mix assumptions: 60% transaction-based, 25% inquiry/observation, 15% automated
+- Include weekly VP status meetings in both roles' time
+- Walkthrough prep time is critical for senior stakeholder meetings
+- Consider stakeholder availability when scheduling walkthroughs
+- Finding rates typically higher in operational reviews (QA as first line)
+- L1 involvement heavier in planning (test plan review) and reporting phases
+
+
+
+____________________________________________________________________________________
+
+
+# QA Comprehensive Review Resource Planning Framework
+
+## Base Module Structure
+
+### Fixed Components (38 Lead Hours / 24 L1 Hours)
+
+#### QA Planning Phase = 11 Lead Hours / 6 L1 Hours
+- **Lead Activities:**
+  - Announcement Memo (1 hour)
+  - Brainstorm Prep (8 hours)
+  - Brainstorm Meeting (2 hours)
+- **L1 Activities:**
+  - Brainstorm meeting participation (2 hours)
+  - Brainstorm deck review (1 hour)
+  - Planning documents review (2-3 hours)
+
+#### QA Reporting Phase = 17 Lead Hours / 12 L1 Hours
+- **Lead Activities:**
+  - Reviewing Audit Team responses (2 hours)
+  - QA Report Drafting (8 hours)
+  - Report Meeting internal with VP/L1 (2 hours)
+  - Addressing Comments (3 hours)
+  - Administrative (2 hours)
+- **L1 Activities:**
+  - VP review process support (6 hours)
+  - PGA review process support (4 hours)
+  - Meeting participation (2 hours)
+
+#### Administrative/Coordination = 10 Lead Hours / 3 L1 Hours
+- **Lead:** General administrative tasks (10 hours)
+- **L1:** Administrative support (3 hours)
+
+### Variable Component: QA Fieldwork Phase
+
+#### Base QA Fieldwork = 55 Lead Hours / 15 L1 Hours
+**Components:**
+- Audit Planning Review (25 hours)
+- Control Testing & Documentation (30 hours)
+
+**Key Variables:**
+1. **Number of Controls:** ROUNDUP(Total Workpapers × 30% Coverage)
+2. **Complexity per Control:** 2.0 - 3.5 hours per workpaper
+3. **Number of Findings:** Additional research & severity determination time
+
+## Estimation Formula
+
+### Control Testing Calculation
+- **Controls to Test:** ROUNDUP(Total Workpapers × 0.30)
+- **Hours per Control:**
+  - Low complexity: 2.0 hours
+  - Medium complexity: 2.5 hours
+  - High complexity: 3.5 hours
+
+### Multipliers
+- **New QA Team Member:** 1.3x on all Lead hours + additional L1 training time
+- **Entity Risk Level:** Use overall audit/entity inherent risk rating
+- **Timeline Compression:** Same hours, compressed schedule
+
+## Timeline Options
+
+### 12-Week Standard Timeline
+
+| Week | Phase | Lead Hours/Week | L1 Hours/Week | Notes |
+|------|-------|----------------|---------------|-------|
+| 1 | QA Planning | 6 | 3 | Brainstorm prep, announcement memo |
+| 2 | QA Planning | 5 | 3 | Complete planning, test plan |
+| 3-4 | QA Fieldwork | 15 | 4 | Audit planning review (25 hrs over 2 weeks) |
+| 5-6 | QA Fieldwork | 15 | 4 | Control testing & findings (30 hrs over 2 weeks) |
+| 7-8 | QA Fieldwork | 8 | 4 | Complete fieldwork, preliminary observations |
+| 9-10 | QA Reporting | 9 | 6 | Report drafting, VP meetings |
+| 11-12 | QA Reporting & Admin | 8 | 5 | Final reviews, administrative closeout |
+
+**Average:** 9.4 Lead hrs/week, 4.1 L1 hrs/week
+
+### 8-Week Compressed Timeline
+
+| Week | Phase | Lead Hours/Week | L1 Hours/Week | Notes |
+|------|-------|----------------|---------------|-------|
+| 1 | QA Planning | 11 | 6 | All planning compressed into week 1 |
+| 2-3 | QA Fieldwork | 22 | 6 | Audit planning review + half of control testing |
+| 4-5 | QA Fieldwork | 17 | 6 | Complete control testing & findings |
+| 6 | QA Reporting | 12 | 8 | Report drafting begins |
+| 7-8 | QA Reporting & Admin | 13 | 9 | Final reviews, administrative closeout |
+
+**Average:** 15.0 Lead hrs/week, 7.0 L1 hrs/week
+
+## Example Calculations
+
+### Example 1: High-Risk Audit, Experienced Team
+- **18 workpapers, high risk, experienced QA lead**
+- **Controls to test:** ROUNDUP(18 × 0.30) = 6 workpapers
+- **Complexity:** High = 3.5 hours per workpaper
+- **Control testing:** 6 × 3.5 = 21 hours
+- **Total Estimate:**
+  - Lead: 38 + 55 = **93 hours**
+  - L1: 24 + 15 = **39 hours**
+  - Total: **132 hours**
+
+### Example 2: Medium-Risk Audit, New QA Lead
+- **10 workpapers, medium risk, new QA lead**
+- **Controls to test:** ROUNDUP(10 × 0.30) = 3 workpapers
+- **Complexity:** Medium = 2.5 hours per workpaper
+- **Control testing:** 3 × 2.5 = 7.5 hours
+- **New team multiplier:** 1.3x on Lead hours
+- **Total Estimate:**
+  - Lead: (38 + 55) × 1.3 = **121 hours**
+  - L1: 24 + 15 + training overhead = **45 hours**
+  - Total: **166 hours**
+
+## Key Planning Constraints
+
+### Timeline Milestones (Client-Facing)
+- Announcement Memo (Day 3)
+- Client Kick-Off (Day 4) - Optional
+- Sharing Preliminary Results (Day 23)
+- Preliminary Closing Meeting (Day 28)
+- Draft Report to Client (Day 40)
+- Closing Meeting (Day 42)
+- Final Report Issuance (Day 55)
+
+### Team Capacity Considerations
+- L1 reviewers work on multiple reviews simultaneously
+- Compressed timeline requires 58% more hours per week
+- New team members require additional oversight
+- Report review cycles require 2-3 day turnarounds
+
+### Current Budget vs Framework
+- **Current Budget:** ~120 hours total
+- **Framework Base:** 129 hours total (93 Lead / 36 L1)
+- **Framework accounts for:** Realistic L1 involvement, control complexity, team experience
+
+## Usage Notes
+- Round up workpaper calculations (can't review 0.2 of a workpaper)
+- Control complexity includes research time for issues/concerns
+- L1 hours are heavily back-loaded in reporting phase due to executive interface
+- Framework designed for calibration as actual time tracking data becomes available
