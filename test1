@@ -449,29 +449,27 @@ ________________________________________________________________________________
 
 ### 12-Week Standard Timeline
 
-| Week | Phase | Lead Hours/Week | L1 Hours/Week | Notes |
-|------|-------|----------------|---------------|-------|
-| 1 | QA Planning | 6 | 3 | Brainstorm prep, announcement memo |
-| 2 | QA Planning | 5 | 3 | Complete planning, test plan |
-| 3-4 | QA Fieldwork | 15 | 4 | Audit planning review (25 hrs over 2 weeks) |
-| 5-6 | QA Fieldwork | 15 | 4 | Control testing & findings (30 hrs over 2 weeks) |
-| 7-8 | QA Fieldwork | 8 | 4 | Complete fieldwork, preliminary observations |
-| 9-10 | QA Reporting | 9 | 6 | Report drafting, VP meetings |
-| 11-12 | QA Reporting & Admin | 8 | 5 | Final reviews, administrative closeout |
+| Week    | Phase                | Lead Hours/Week | L1 Hours/Week | Notes                                        |
+|---------|----------------------|------------------|----------------|----------------------------------------------|
+| 1       | QA Planning           | 6                | 2              | Brainstorm prep, announcement memo           |
+| 2       | QA Planning           | 5                | 2              | Complete planning, test plan                 |
+| 3-4     | QA Fieldwork          | 20               | 8              | Audit planning review (25 hrs over 2 weeks)  |
+| 5-6     | QA Fieldwork          | 20               | 8              | Control testing & findings (30 hrs over 2 weeks) |
+| 7-8     | QA Fieldwork          | 11               | 6              | Complete fieldwork, preliminary observations |
+| 9-10    | QA Reporting          | 12               | 6              | Report drafting, VP meetings                 |
+| 11-12   | QA Reporting & Admin  | 19               | 4              | Final reviews, administrative closeout       |
 
-**Average:** 9.4 Lead hrs/week, 4.1 L1 hrs/week
 
 ### 8-Week Compressed Timeline
 
-| Week | Phase | Lead Hours/Week | L1 Hours/Week | Notes |
-|------|-------|----------------|---------------|-------|
-| 1 | QA Planning | 11 | 6 | All planning compressed into week 1 |
-| 2-3 | QA Fieldwork | 22 | 6 | Audit planning review + half of control testing |
-| 4-5 | QA Fieldwork | 17 | 6 | Complete control testing & findings |
-| 6 | QA Reporting | 12 | 8 | Report drafting begins |
-| 7-8 | QA Reporting & Admin | 13 | 9 | Final reviews, administrative closeout |
+| Week    | Phase                | Lead Hours/Week | L1 Hours/Week | Notes                                              |
+|---------|----------------------|------------------|----------------|----------------------------------------------------|
+| 1       | QA Planning           | 14               | 6              | All planning compressed into week 1               |
+| 2-3     | QA Fieldwork          | 28               | 9              | Audit planning review + half of control testing   |
+| 4-5     | QA Fieldwork          | 24               | 9              | Complete control testing & findings               |
+| 6       | QA Reporting          | 11               | 6              | Report drafting begins                            |
+| 7-8     | QA Reporting & Admin  | 16               | 6              | Final reviews, administrative closeout            |
 
-**Average:** 15.0 Lead hrs/week, 7.0 L1 hrs/week
 
 ## Example Calculations
 
