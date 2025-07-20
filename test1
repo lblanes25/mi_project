@@ -158,18 +158,25 @@ Horizontal Reviews assess audit processes across all audits (15 stakeholders), r
 
 ### 17-Week Standard Timeline
 
-| Week | Phase | Lead Hrs | TM Hrs | L1 Hrs | Key Activities |
-|------|-------|----------|---------|---------|----------------|
-| 1-2 | Planning | 18 | 5 | 8 | Knowledge sharing, population analysis, control planning |
-| 3 | Planning | 17 | 5 | 7 | Complete planning, brainstorm, begin analytics setup |
-| 4-5 | Fieldwork | 20 | 15 | 2 | Analytics execution, begin control testing |
-| 6-7 | Fieldwork | 18 | 15 | 2 | Control testing, begin substantive testing |
-| 8-9 | Fieldwork | 18 | 15 | 1 | Continue substantive testing (40 samples) |
-| 10-11 | Fieldwork | 16 | 12 | 1 | Complete testing, findings investigation |
-| 12-13 | Fieldwork/Meetings | 25 | 25 | 4 | 15 stakeholder meetings (concentrated) |
-| 14 | Reporting | 15 | 5 | 4 | Workbook consolidation, thematic analysis, draft report |
-| 15-16 | Reporting | 15 | 5 | 7 | VP/PGA reviews, comment resolution |
-| 17 | Reporting/Close | 15 | 5 | 7 | Process owner meeting, retrospective, final report |
+| Week | Phase               | Lead Hrs | TM Hrs | L1 Hrs | Key Activities                                         |
+|------|---------------------|----------|--------|--------|--------------------------------------------------------|
+| 1    | Planning            | 18       | 5      | 8      | Knowledge sharing, population analysis, control planning |
+| 2    | Planning            | 18       | 5      | 8      | Knowledge sharing, population analysis, control planning |
+| 3    | Planning            | 17       | 5      | 7      | Complete planning, brainstorm, begin analytics setup   |
+| 4    | Fieldwork           | 20       | 15     | 2      | Analytics execution, begin control testing             |
+| 5    | Fieldwork           | 20       | 15     | 2      | Analytics execution, begin control testing             |
+| 6    | Fieldwork           | 18       | 15     | 2      | Control testing, begin substantive testing             |
+| 7    | Fieldwork           | 18       | 15     | 2      | Control testing, begin substantive testing             |
+| 8    | Fieldwork           | 18       | 15     | 1      | Continue substantive testing (40 samples)              |
+| 9    | Fieldwork           | 18       | 15     | 1      | Continue substantive testing (40 samples)              |
+| 10   | Fieldwork           | 16       | 12     | 1      | Complete testing, findings investigation               |
+| 11   | Fieldwork           | 16       | 12     | 1      | Complete testing, findings investigation               |
+| 12   | Fieldwork/Meetings  | 25       | 25     | 4      | 15 stakeholder meetings (concentrated)                 |
+| 13   | Fieldwork/Meetings  | 25       | 25     | 4      | 15 stakeholder meetings (concentrated)                 |
+| 14   | Reporting           | 15       | 5      | 4      | Workbook consolidation, thematic analysis, draft report|
+| 15   | Reporting           | 15       | 5      | 7      | VP/PGA reviews, comment resolution                     |
+| 16   | Reporting           | 15       | 5      | 7      | VP/PGA reviews, comment resolution                     |
+| 17   | Reporting/Close     | 15       | 5      | 7      | Process owner meeting, retrospective, final report     |
 
 **Weekly Average:** 12.1 Lead hrs/week, 9.1 TM hrs/week, 2.4 L1 hrs/week
 
@@ -337,16 +344,25 @@ Operational Reviews assess IAG managed processes through direct control testing,
 
 ## Timeline - 15 Week Standard
 
-| Week | Phase | Lead Hours/Week | L1 Hours/Week | Key Activities |
-|------|-------|----------------|---------------|----------------|
-| 1-2 | QA Planning | 10 | 7 | RCM review, control selection, test plan development |
-| 3 | QA Planning/Fieldwork | 8 | 5 | Complete planning, begin walkthroughs |
-| 4-6 | QA Fieldwork | 12 | 5 | Control testing - Phase 1 |
-| 7-9 | QA Fieldwork | 11 | 5 | Control testing - Phase 2 |
-| 10-11 | QA Fieldwork | 10 | 4 | Complete testing, findings investigation |
-| 12 | QA Fieldwork/Reporting | 9 | 5 | Preliminary observations, begin report |
-| 13-14 | QA Reporting | 9 | 6 | Report drafting, VP/PGA reviews |
-| 15 | QA Reporting & Admin | 8 | 5 | Final reviews, closeout |
+| Week | Phase                  | Lead Hours | L1 Hours | Key Activities                                         |
+|------|------------------------|------------|----------|--------------------------------------------------------|
+| 1    | QA Planning            | 10         | 7        | RCM review, control selection, test plan development   |
+| 2    | QA Planning            | 10         | 7        | RCM review, control selection, test plan development   |
+| 3    | QA Planning/Fieldwork  | 8          | 5        | Complete planning, begin walkthroughs                 |
+| 4    | QA Fieldwork           | 12         | 5        | Control testing - Phase 1                             |
+| 5    | QA Fieldwork           | 12         | 5        | Control testing - Phase 1                             |
+| 6    | QA Fieldwork           | 12         | 5        | Control testing - Phase 1                             |
+| 7    | QA Fieldwork           | 11         | 5        | Control testing - Phase 2                             |
+| 8    | QA Fieldwork           | 11         | 5        | Control testing - Phase 2                             |
+| 9    | QA Fieldwork           | 11         | 5        | Control testing - Phase 2                             |
+| 10   | QA Fieldwork           | 10         | 4        | Complete testing, findings investigation              |
+| 11   | QA Fieldwork           | 10         | 4        | Complete testing, findings investigation              |
+| 12   | QA Fieldwork/Reporting | 9          | 5        | Preliminary observations, begin report                |
+| 13   | QA Reporting           | 9          | 6        | Report drafting, VP/PGA reviews                       |
+| 14   | QA Reporting           | 9          | 6        | Report drafting, VP/PGA reviews                       |
+| 15   | QA Reporting & Admin   | 8          | 5        | Final reviews, closeout                               |
+|      | **Total**              | **152**    | **79**   |                                                        |
+
 
 **Weekly Average:** 11.1 Lead hrs/week, 5.3 L1 hrs/week
 
@@ -449,26 +465,39 @@ ________________________________________________________________________________
 
 ### 12-Week Standard Timeline
 
-| Week    | Phase                | Lead Hours/Week | L1 Hours/Week | Notes                                        |
-|---------|----------------------|------------------|----------------|----------------------------------------------|
-| 1       | QA Planning           | 6                | 2              | Brainstorm prep, announcement memo           |
-| 2       | QA Planning           | 5                | 2              | Complete planning, test plan                 |
-| 3-4     | QA Fieldwork          | 20               | 8              | Audit planning review (25 hrs over 2 weeks)  |
-| 5-6     | QA Fieldwork          | 20               | 8              | Control testing & findings (30 hrs over 2 weeks) |
-| 7-8     | QA Fieldwork          | 11               | 6              | Complete fieldwork, preliminary observations |
-| 9-10    | QA Reporting          | 12               | 6              | Report drafting, VP meetings                 |
-| 11-12   | QA Reporting & Admin  | 19               | 4              | Final reviews, administrative closeout       |
+| Week | Phase             | Lead Hours | L1 Hours | Notes                                        |
+|------|-------------------|------------|----------|----------------------------------------------|
+| 1    | QA Planning        | 8          | 4        | Brainstorm prep, announcement memo           |
+| 2    | QA Planning        | 7          | 3        | Complete planning, test plan                 |
+| 3    | QA Fieldwork       | 12         | 3        | Audit planning review begins                 |
+| 4    | QA Fieldwork       | 12         | 2        | Audit planning continues                     |
+| 5    | QA Fieldwork       | 12         | 2        | Control testing starts                       |
+| 6    | QA Fieldwork       | 12         | 2        | Control testing continues                    |
+| 7    | QA Fieldwork       | 5          | 2        | Preliminary observations                     |
+| 8    | QA Fieldwork       | 5          | 2        | Wrap up fieldwork                            |
+| 9    | QA Reporting       | 6          | 3        | Draft report                                 |
+| 10   | QA Reporting       | 6          | 4        | VP meetings                                  |
+| 11   | QA Reporting/Admin | 5          | 4        | Final reviews                                |
+| 12   | QA Reporting/Admin | 5          | 0        | Admin closeout                               |
+|      | **Total**          | **95**     | **30**   |                                              |
+
+
 
 
 ### 8-Week Compressed Timeline
 
-| Week    | Phase                | Lead Hours/Week | L1 Hours/Week | Notes                                              |
-|---------|----------------------|------------------|----------------|----------------------------------------------------|
-| 1       | QA Planning           | 14               | 6              | All planning compressed into week 1               |
-| 2-3     | QA Fieldwork          | 28               | 9              | Audit planning review + half of control testing   |
-| 4-5     | QA Fieldwork          | 24               | 9              | Complete control testing & findings               |
-| 6       | QA Reporting          | 11               | 6              | Report drafting begins                            |
-| 7-8     | QA Reporting & Admin  | 16               | 6              | Final reviews, administrative closeout            |
+| Week | Phase     | Lead Hours | L1 Hours | Notes                                           |
+|------|-----------|------------|----------|-------------------------------------------------|
+| 1    | Planning  | 14         | 6        | All planning compressed into week 1            |
+| 2    | Planning  | 14         | 4        | Audit planning review + half of control testing|
+| 3    | Fieldwork | 14         | 4        | Audit planning review + half of control testing|
+| 4    | Fieldwork | 12         | 3        | Complete control testing & findings            |
+| 5    | Fieldwork | 12         | 2        | Complete control testing & findings            |
+| 6    | Fieldwork | 11         | 5        | Report drafting begins                         |
+| 7    | Fieldwork | 8          | 4        | Final reviews, administrative closeout         |
+| 8    | Fieldwork | 8          | 4        | Final reviews, administrative closeout         |
+|      | **Total** | **93**     | **32**   |                                                 |
+
 
 
 ## Example Calculations
@@ -521,3 +550,29 @@ ________________________________________________________________________________
 - Control complexity includes research time for issues/concerns
 - L1 hours are heavily back-loaded in reporting phase due to executive interface
 - Framework designed for calibration as actual time tracking data becomes available
+
+
+
+________________________
+
+
+# 14-Week Timeline with Proper Distribution
+
+| Week | Phase              | Lead Hrs | TM Hrs | L1 Hrs | Key Activities                                           |
+|------|--------------------|----------|--------|--------|----------------------------------------------------------|
+| 1    | Planning           | 10       | 3      | 5      | Knowledge sharing, announcement, initial analysis        |
+| 2    | Planning           | 12       | 4      | 5      | Population analysis, control selection, test plan        |
+| 3    | Planning           | 13       | 3      | 5      | Complete planning, brainstorm meeting                    |
+| 4    | Fieldwork          | 8        | 12     | 1      | Analytics setup and execution (heavy TM week)            |
+| 5    | Fieldwork          | 8        | 12     | 1      | Complete analytics, begin control testing                |
+| 6    | Fieldwork          | 12       | 8      | 1      | Control testing (operational only)                       |
+| 7    | Fieldwork          | 12       | 8      | 1      | Complete controls, begin substantive testing             |
+| 8    | Fieldwork          | 12       | 10     | 1      | Continue substantive testing (25 samples)                |
+| 9    | Fieldwork          | 12       | 10     | 1      | Complete testing, findings investigation                 |
+| 10   | Fieldwork/Admin    | 10       | 5      | 1      | Wrap fieldwork, prep for stakeholder meetings            |
+| 11   | Meetings           | 15       | 15     | 2      | First 7-8 stakeholder meetings                           |
+| 12   | Meetings/Reporting | 20       | 15     | 2      | Final 7-8 meetings, workbook consolidation                |
+| 13   | Reporting          | 20       | 7      | 7      | Draft report, VP review process                          |
+| 14   | Reporting          | 21       | 6      | 8      | PGA review, process owner meeting, close                 |
+|      | **Total**          | **185**  | **118**| **41** |                                                          |
+
